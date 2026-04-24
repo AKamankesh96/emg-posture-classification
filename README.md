@@ -36,7 +36,7 @@ Expected data format:
 
 emg-posture-classification/
 ├── notebooks/
-│   └── EMG_Posture_Classification.ipynb
+│   └── EMG_Posture_Classification_GitHub.ipynb
 ├── src/
 │   └── emg_posture_classification.py
 ├── requirements.txt
