@@ -33,7 +33,7 @@ Expected data format:
 ---
 
 ## Repository Structure
-
+```text
 emg-posture-classification/
 ├── notebooks/
 │   └── EMG_Posture_Classification_GitHub.ipynb
