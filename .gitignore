@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Data files
+*.mat
+*.h5
+*.hdf5
+
+# Results
+results/*.png
+results/*.csv
+results/*.txt
+results/*.keras
+results/*.h5
+
+# OS files
+.DS_Store
+Thumbs.db
