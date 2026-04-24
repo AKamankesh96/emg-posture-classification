@@ -41,7 +41,7 @@ emg-posture-classification/
 │   └── emg_posture_classification.py
 ├── requirements.txt
 └── README.md
-
+---
 ---
 
 ## Notes
