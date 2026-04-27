@@ -55,6 +55,12 @@ emg-posture-classification/
 
 ## Citation
 
+### Code
+If you use this repository, please cite:
+
+Kamankesh, A. (2026). *EMG-Based Classification of Standing Postures* (Version 1.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.19825555
+
+### Paper
 This repository accompanies the following publication:
 
 Kamankesh, A., Rahimi, N., Amiridis, I. G., Sahinis, C., Hatzitaki, V., & Enoka, R. M. (2025).  
