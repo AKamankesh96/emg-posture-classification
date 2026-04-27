@@ -1,5 +1,7 @@
 # EMG-Based Classification of Standing Postures
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19825555.svg)](https://doi.org/10.5281/zenodo.19825555)
+
 This repository contains code for classifying four standing postures using EMG signals recorded from the **soleus (SOL)** and **flexor digitorum brevis (FDB)**.
 
 The primary objective is to compare how effectively each muscle’s activity can discriminate between standing postures.
